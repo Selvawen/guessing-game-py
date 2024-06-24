@@ -14,8 +14,26 @@ This is a simple guessing game where the player tries to guess a randomly genera
 - Random Number Generation: The program generates a random number using Python's random module.
 - Function-based Structure: The program is structured using functions to organize different parts of the game logic.
 
-## Usage
-1. Clone the repository or download the Python file.
-2. Run the Python file in your preferred Python environment (e.g., IDLE, command line) to start the game.
-3. Follow the on-screen instructions to guess the number.
-4. After each game, you will be prompted to play again. Enter 'yes' to continue or 'no' to end the program.
+## Getting Started
+Follow the instructions below to set up and run the game on your local machine.
+
+### Prerequisites
+Make sure you have Python installed on your machine. You can download it from python.org.
+
+### Installation
+1. **Clone the repository**
+
+    ```bash
+    git clone https://github.com/yourusername/guessing-game-py.git
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd guessing-game-py
+
+### Running the Game
+
+    To run the game, execute the following command in your terminal:
+
+    ```bash
+    python game.py
