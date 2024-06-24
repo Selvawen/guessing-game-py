@@ -35,5 +35,6 @@ Make sure you have Python installed on your machine. You can download it from py
 
 **To run the game, execute the following command in your terminal:**
 
-    
-    ```python game.py
+```bash
+
+     python game.py
