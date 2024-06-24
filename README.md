@@ -29,7 +29,7 @@ Make sure you have Python installed on your machine. You can download it from py
 2. **Navigate to the project directory:**
 
     ```bash
-    cd guessing-game-py
+    cd guessing-game-py/game.py
 
 ### Running the Game
 
