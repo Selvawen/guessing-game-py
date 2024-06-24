@@ -33,7 +33,7 @@ Make sure you have Python installed on your machine. You can download it from py
 
 ### Running the Game
 
-    To run the game, execute the following command in your terminal:
+**To run the game, execute the following command in your terminal:**
 
     ```bash
     python game.py
