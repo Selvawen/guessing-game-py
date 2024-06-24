@@ -2,7 +2,8 @@
 This is a simple guessing game where the player tries to guess a randomly generated number between 1 and 10.
 
 ## Technologies Used
-![python (1)](https://github.com/Selvawen/guessing-game-py/assets/111338548/fd518156-8c90-448a-8e40-dc7b6d9419e6)
+![python 2](https://github.com/Selvawen/guessing-game-py/assets/111338548/2cda6787-fa36-41ca-9b3e-ec739b8d922d)
+
 
 ## Demo
 ![guess](https://github.com/Selvawen/guessing-game-py/assets/111338548/16e91945-7f3a-48e0-8115-5d60137549e3)
