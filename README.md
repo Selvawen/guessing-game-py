@@ -1,6 +1,11 @@
 # guessing-game-py
 This is a simple guessing game where the player tries to guess a randomly generated number between 1 and 10.
 
+## Technologies Used
+
+## Demo
+![guess](https://github.com/Selvawen/guessing-game-py/assets/111338548/16e91945-7f3a-48e0-8115-5d60137549e3)
+
 ## Features
 - User Interaction: The program interacts with the user by prompting them to guess a number and providing feedback on whether their guess is too high, too low, or correct.
 - Looping: The game allows the user to play multiple times if desired by looping until the user decides to stop.
