@@ -14,6 +14,14 @@ This is a simple guessing game where the player tries to guess a randomly genera
 - Random Number Generation: The program generates a random number using Python's random module.
 - Function-based Structure: The program is structured using functions to organize different parts of the game logic.
 
+## How to Play
+
+1. The game will ask you to guess a number between 1 and 10.
+2. Enter your guess and press Enter.
+3. The game will tell you if your guess is too low, too high, or correct.
+4. If you guess correctly, you will be asked if you want to play again.
+5. Type yes to play again or no to exit the game.
+
 ## Getting Started
 Follow the instructions below to set up and run the game on your local machine.
 
@@ -36,5 +44,4 @@ Make sure you have Python installed on your machine. You can download it from py
 **To run the game, execute the following command in your terminal:**
 
 ```bash
-
-     python game.py
+    python game.py
